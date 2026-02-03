@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 #This is a small calculator project
-# DEV-1 JIRA-101: test PR automation
 
 
 def add(x, y):
