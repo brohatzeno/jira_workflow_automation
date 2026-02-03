@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #This is a small calculator project
-
+#Resolving ticket no Dev-2
 
 def add(x, y):
     """Addition function"""
