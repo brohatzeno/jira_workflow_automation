@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# DEV-1 JIRA-101: test PR automation commit
-# Updated calculator with additional operations and improved interface
+#This is a small calculator project
 
 
 def add(x, y):
@@ -58,7 +57,7 @@ def get_numbers():
 
 def main():
     """Main calculator function"""
-    print("Welcome to the Enhanced CLI Calculator!")
+    print("Welcome to the CLI Calculator!")
 
     while True:
         display_menu()
