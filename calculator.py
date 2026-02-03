@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-#This is a small calculator project
-#This is a new commit
-#Second attempt
+#This is a basic Airthmatic Calculator
+#This is a demo code
 
 def add(x, y):
     """Addition function"""
